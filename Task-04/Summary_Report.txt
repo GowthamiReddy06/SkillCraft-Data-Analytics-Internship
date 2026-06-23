@@ -1,0 +1,15 @@
+Business Insights Report (EDA)
+
+Objective:
+Analyze the marketing campaign dataset and identify patterns in customer purchasing behavior and campaign performance.
+
+Key Findings:
+
+1. Highest performing purchase channel: Store Purchases (average 5.79 purchases per customer)
+2. Second highest channel: Web Purchases (average 4.08 purchases per customer)
+3. Lowest performing channel: Catalog Purchases (average 2.66 purchases per customer)
+4. Customer engagement trends: Customers who responded to marketing campaigns spent significantly more than non-responders.
+5. Budget recommendation: Increase investment in store and web-based marketing campaigns, while improving catalog marketing strategies.
+
+Conclusion:
+The analysis shows that store purchases contribute the highest customer activity, followed by web purchases. Customers who engage with marketing campaigns generate higher spending, indicating that targeted campaigns can improve revenue and customer retention.
